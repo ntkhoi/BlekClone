@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blebledata>
+    <Config curLevel="1" />
+    <LstLevel>
+        <level id ="1">
+            <Circlesprite>
+                <sprite filename="circle.png" posX="400" posY="100" radius="50" ColorR="26" ColorG="117" ColorB="255" />
+            </Circlesprite>
+            <blacksprite>
+                <!--                <sprite filename="circle.png" posX="200" posY="200" radius="50" ColorR="125" ColorG="0" ColorB="0" />-->
+            </blacksprite>
+        </level>
+        <level id ="2">
+            <Circlesprite>
+                <sprite filename="circle.png" posX="300" posY="100" radius="50" ColorR="26" ColorG="117" ColorB="255" />
+                
+                <sprite filename="circle.png" posX="400" posY="100" radius="50" ColorR="26" ColorG="117" ColorB="255" />
+                
+            </Circlesprite>
+            <blacksprite>
+            </blacksprite>
+        </level>
+        
+        
+        <level id ="3">
+            <Circlesprite>
+                <sprite filename="circle.png" posX="50" posY="180" radius="50" ColorR="26" ColorG="255" ColorB="0" />
+                <sprite filename="circle.png" posX="380" posY="180" radius="50" ColorR="26" ColorG="255" ColorB="0" />
+            </Circlesprite>
+            <blacksprite>
+            </blacksprite>
+        </level>
+        
+        <level id ="4">
+            <Circlesprite>
+                <sprite filename="circle.png" posX="300" posY="200" radius="40" ColorR="255" ColorG="15" ColorB="0" />
+                <sprite filename="circle.png" posX="350" posY="230" radius="50" ColorR="255" ColorG="15" ColorB="0" />
+                <sprite filename="circle.png" posX="400" posY="260" radius="50" ColorR="255" ColorG="15" ColorB="0" />
+                
+            </Circlesprite>
+            <blacksprite>
+            </blacksprite>
+        </level>
+        <level id ="5">
+            <Circlesprite>
+                <sprite filename="circle.png" posX="150" posY="160" radius="40" ColorR="26" ColorG="255" ColorB="0" />
+                
+                <sprite filename="circle.png" posX="300" posY="160" radius="40" ColorR="26" ColorG="255" ColorB="0" />
+                
+            </Circlesprite>
+            <blacksprite>
+                <sprite filename="circle.png" posX="225" posY="160" radius="40" ColorR="26" ColorG="255" ColorB="0" />
+            </blacksprite>
+        </level>
+        <level id ="6">
+            <Circlesprite>
+                <sprite filename="circle.png" posX="200" posY="160" radius="30" ColorR="0" ColorG="153" ColorB="255" />
+                
+                <sprite filename="circle.png" posX="250" posY="160" radius="30" ColorR="255" ColorG="153" ColorB="102" />
+                
+                <sprite filename="circle.png" posX="200" posY="200" radius="30" ColorR="153" ColorG="51" ColorB="255" />
+                
+                <sprite filename="circle.png" posX="250" posY="200" radius="30" ColorR="255" ColorG="80" ColorB="80" />
+                
+                
+            </Circlesprite>
+            <blacksprite>
+                
+            </blacksprite>
+        </level>
+        
+        <level id ="7">
+            <Circlesprite>
+                <sprite filename="circle.png" posX="150" posY="160" radius="40" ColorR="204" ColorG="0" ColorB="255" />
+                
+                <sprite filename="circle.png" posX="300" posY="160" radius="40" ColorR="204" ColorG="0" ColorB="255" />
+                
+                
+                <sprite filename="circle.png" posX="225" posY="220" radius="40" ColorR="204" ColorG="0" ColorB="255" />
+                
+                
+            </Circlesprite>
+            <blacksprite>
+                <sprite filename="circle.png" posX="225" posY="160" radius="40" ColorR="26" ColorG="255" ColorB="0" />
+            </blacksprite>
+        </level>
+        
+        <level id ="8">
+            <Circlesprite>
+                <sprite filename="circle.png" posX="200" posY="160" radius="30" ColorR="0" ColorG="153" ColorB="255" />
+                
+                
+                <sprite filename="circle.png" posX="200" posY="200" radius="30" ColorR="153" ColorG="51" ColorB="255" />
+                
+                <sprite filename="circle.png" posX="250" posY="200" radius="30" ColorR="255" ColorG="80" ColorB="80" />
+                
+                
+            </Circlesprite>
+            <blacksprite>
+                <sprite filename="circle.png" posX="250" posY="160" radius="30" ColorR="255" ColorG="153" ColorB="102" />
+                
+            </blacksprite>
+        </level>
+        
+        
+        <level id ="9">
+            <Circlesprite>
+                <sprite filename="circle.png" posX="150" posY="160" radius="30" ColorR="204" ColorG="0" ColorB="255" />
+
+                
+                <sprite filename="circle.png" posX="250" posY="160" radius="30" ColorR="204" ColorG="0" ColorB="255" />
+                
+                
+                <sprite filename="circle.png" posX="350" posY="160" radius="30" ColorR="204" ColorG="0" ColorB="255" />
+                
+                
+            </Circlesprite>
+            <blacksprite>
+                <sprite filename="circle.png" posX="30" posY="160" radius="15" ColorR="204" ColorG="0" ColorB="255" />
+                
+                <sprite filename="circle.png" posX="50" posY="160" radius="15" ColorR="204" ColorG="0" ColorB="255" />
+                
+                <sprite filename="circle.png" posX="100" posY="160" radius="15" ColorR="204" ColorG="0" ColorB="255" />
+                
+                <sprite filename="circle.png" posX="200" posY="160" radius="15" ColorR="204" ColorG="0" ColorB="255" />
+                
+                <sprite filename="circle.png" posX="300" posY="160" radius="15" ColorR="204" ColorG="0" ColorB="255" />
+               
+               <sprite filename="circle.png" posX="400" posY="160" radius="15" ColorR="204" ColorG="0" ColorB="255" />
+               
+                <sprite filename="circle.png" posX="420" posY="160" radius="15" ColorR="204" ColorG="0" ColorB="255" />
+               
+
+            </blacksprite>
+        </level>
+        
+        
+        
+        
+        <level id ="10">
+            <Circlesprite>
+               
+               <sprite filename="circle.png" posX="210" posY="160" radius="30" ColorR="0" ColorG="102" ColorB="255" />
+               
+                <sprite filename="circle.png" posX="290" posY="160" radius="30" ColorR="204" ColorG="0" ColorB="255" />
+                
+                
+                <sprite filename="circle.png" posX="250" posY="200" radius="30" ColorR="255" ColorG="153" ColorB="102" />
+                
+                <sprite filename="circle.png" posX="250" posY="120" radius="30" ColorR="255" ColorG="80" ColorB="80" />
+
+
+                
+            </Circlesprite>
+            <blacksprite>
+                <sprite filename="circle.png" posX="30" posY="160" radius="40" ColorR="204" ColorG="0" ColorB="255" />
+                <sprite filename="circle.png" posX="420" posY="160" radius="40" ColorR="204" ColorG="0" ColorB="255" />
+            </blacksprite>
+        </level>
+        
+
+
+
+        
+    </LstLevel>
+</blebledata>
+
+
+
+
